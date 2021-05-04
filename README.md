@@ -8,6 +8,12 @@ What is the input to each recursive call?
 What is the output of each recursive call?
 Start each problem by understanding the problem and coming up with some sample input and output. In some of the drills we have provided sample inputs and outputs for your convenience.
 
+***
+
+Link to run each function:
+https://replit.com/@cjoyantonio/DSA-recursion
+
+***
 
 1. Counting Sheep
 
